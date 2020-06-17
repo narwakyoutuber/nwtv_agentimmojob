@@ -18,8 +18,8 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 ;
 
 INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_female) VALUES
-	('offrealestateagent',0,'location','Location',0,'{}','{}'),
-	('offrealestateagent',1,'vendeur','Vendeur',0,'{}','{}'),
-	('offrealestateagent',2,'gestion','Gestion',0,'{}','{}'),
-	('offrealestateagent',3,'boss','Patron',0,'{}','{}')
+	('offrealestateagent',0,'location','Conges',0,'{}','{}'),
+	('offrealestateagent',1,'vendeur','Conges',0,'{}','{}'),
+	('offrealestateagent',2,'gestion','Conges',0,'{}','{}'),
+	('offrealestateagent',3,'boss','Conges',0,'{}','{}')
 ;
