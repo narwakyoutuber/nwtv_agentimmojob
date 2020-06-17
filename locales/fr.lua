@@ -29,7 +29,7 @@ Locales['fr'] = {
   ['no_play_near'] = 'aucun joueur à proximité',
   ['realtors'] = 'agents Immobilier',
   ['boss_action'] = 'action Patron',
-  ['client_poor'] = 'Cette personne n\'a pas sont chequier sur elle !',
+  ['client_poor'] = 'Cette personne n\'a pas son chequier sur elle !',
 
   -- Property menu
   ['property_name'] = 'propriété',
