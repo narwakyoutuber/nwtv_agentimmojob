@@ -22,4 +22,4 @@ INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_
 	('offrealestateagent',1,'vendeur','Conges',0,'{}','{}'),
 	('offrealestateagent',2,'gestion','Conges',0,'{}','{}'),
 	('offrealestateagent',3,'boss','Conges',0,'{}','{}')
-;
+; 
