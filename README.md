@@ -7,7 +7,7 @@ esx_addonaccount
 esx_property
 esx_society
 
--Installation
+- Installation
 
 Add start nwtv_agentimmojob to your server.cfg
 Import nwtv_agentimmojob.sql in your database
