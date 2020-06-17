@@ -1,5 +1,5 @@
 # nwtv_agentimmojob
-Agent Immobilier custom avec prise de service/conges
+Agent Immobilier custom avec prise de service/conges et vestiaire.
 
 - Requirements
 
