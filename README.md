@@ -9,6 +9,8 @@ esx_property
 
 esx_society
 
+pNotify
+
 - Installation
 
 Add start nwtv_agentimmojob to your server.cfg
